@@ -1,0 +1,2 @@
+module UserChildHelper
+end
