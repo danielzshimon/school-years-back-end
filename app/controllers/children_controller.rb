@@ -17,4 +17,8 @@ class ChildrenController < ApplicationController
 
     end
 
+    def delete
+
+    end
+
 end
